@@ -15,7 +15,10 @@ public class ClassA {
 	public void setAbc(String abc) {
 		this.abc = abc;
 		
+
 		System.out.println("Hello");
+		System.out.println("Hello Madam");
+
 	}
 
 }
