@@ -16,6 +16,7 @@ public class ClassA {
 		this.abc = abc;
 		
 		System.out.println("Hai Nadiah and Afiqah");
+		System.out.println("Bye");
 	}
 
 }
