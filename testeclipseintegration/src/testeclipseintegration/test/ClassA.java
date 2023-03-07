@@ -15,8 +15,6 @@ public class ClassA {
 	public void setAbc(String abc) {
 		this.abc = abc;
 		
-		System.out.println("Hai Nadiah and Afiqah");
-		System.out.println("Bye");
-	}
 
+	}
 }
